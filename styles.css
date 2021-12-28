@@ -35,6 +35,11 @@ body
     font-weight: 600;
 }
 
+.name-container p:hover
+{
+    color:hsl(178, 100%, 50%);
+}
+
 .info-container
 {
     font-weight: 300;
@@ -60,11 +65,23 @@ hr
 .creator-container
 {
     font-weight: 300;
+    font-size: 90%;
 }
 
-.creator-container .name
+.creator-container img
+{
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 50%;
+}
+
+.creator-container a
 {
     color: #ffffff;
+}
+
+.creator-container a:hover
+{
+    color: hsl(178, 100%, 50%);
 }
 
 .attribution
