@@ -2,7 +2,7 @@ body
 {
     background-color: hsl(217, 54%, 11%);
     font-family: 'Outfit', sans-serif;
-    font-weight: 600;
+    font-size: 18px;
 }
 
 .card
@@ -11,6 +11,12 @@ body
     border: 1px;
     border-radius: 10px;
     padding: 0 40%;
+}
+
+.container
+{
+    color: hsl(215, 51%, 70%);
+    padding: 20px;
 }
 
 .item-container
@@ -26,16 +32,24 @@ body
 {
     color: hsl(0, 0%, 100%);
     font-size: 110%;
+    font-weight: 600;
 }
 
 .info-container
 {
-    color: hsl(215, 32%, 27%);
+    font-weight: 300;
 }
 
 .detail-container
 {
+    font-size: 80%;
+    padding: 10px;
+}
+
+.detail-container .price
+{
     color: hsl(178, 100%, 50%);
+    font-weight: 600;
 }
 
 hr
@@ -45,5 +59,25 @@ hr
 
 .creator-container
 {
+    font-weight: 300;
+}
+
+.creator-container .name
+{
     color: #ffffff;
+}
+
+.attribution
+{
+    color: hsla(0, 0%, 100%, 0.9) ;
+}
+
+.attribution a:link
+{
+    color:hsl(178, 100%, 50%);
+}
+
+.attribution a:visited
+{
+    color:hsl(178, 100%, 50%);
 }
