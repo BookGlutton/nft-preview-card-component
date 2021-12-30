@@ -2,21 +2,25 @@ body
 {
     background-color: hsl(217, 54%, 11%);
     font-family: 'Outfit', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .card
 {
-    background-color: hsl(216, 50%, 16%);
     border: 1px;
-    border-radius: 10px;
-    padding: 0 40%;
+    margin-left: 40%;
+    margin-top: 5%;
+    /* padding: 50%; */
+    width: 350px;
+    height: 500px;
 }
 
 .container
 {
+    background-color: hsl(216, 50%, 16%);
     color: hsl(215, 51%, 70%);
-    padding: 20px;
+    padding: 25px;
+    border-radius: 10px;
 }
 
 .item-container
@@ -86,15 +90,14 @@ hr
 
 .attribution
 {
-    color: hsla(0, 0%, 100%, 0.9) ;
+    position: absolute;
+    bottom: 0px;
+    left: 40%;
+    color: hsla(0, 0%, 100%, 0.9);
+    font-size: 11px;
 }
 
-.attribution a:link
-{
-    color:hsl(178, 100%, 50%);
-}
-
-.attribution a:visited
+.attribution a
 {
     color:hsl(178, 100%, 50%);
 }
