@@ -2,7 +2,7 @@ body
 {
     background-color: hsl(217, 54%, 11%);
     font-family: 'Outfit', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .card
@@ -10,7 +10,6 @@ body
     border: 1px;
     margin-left: 40%;
     margin-top: 5%;
-    /* padding: 50%; */
     width: 350px;
     height: 500px;
 }
@@ -35,7 +34,7 @@ body
 .name-container
 {
     color: hsl(0, 0%, 100%);
-    font-size: 110%;
+    font-size: 120%;
     font-weight: 600;
 }
 
@@ -52,13 +51,31 @@ body
 .detail-container
 {
     font-size: 80%;
-    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.detail-container table
+{
+    width: 300px;
+}
+
+.detail-container img
+{
+    vertical-align: -4px;
+    padding-right: 2px;
 }
 
 .detail-container .price
 {
     color: hsl(178, 100%, 50%);
     font-weight: 600;
+}
+
+.detail-container .time
+{
+    text-align: right;
+    font-size: 90%;
 }
 
 hr
@@ -70,12 +87,16 @@ hr
 {
     font-weight: 300;
     font-size: 90%;
+    padding-top: 10px;
 }
 
 .creator-container img
 {
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 50%;
+    vertical-align: -10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .creator-container a
