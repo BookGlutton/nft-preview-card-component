@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Screenshot
 
-//in progress
 ![Without Mouse](./screenshot/no-mouse.png)
 ![Mouse on Image of NFT](./screenshot/mouseonimage.png)
 ![Mouse on NFT name](./screenshot/mouseonnftname.png)
