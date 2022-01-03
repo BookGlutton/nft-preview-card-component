@@ -46,7 +46,6 @@ Mobile View:
 
 ### Links
 
-\\in progress
 - Solution URL: [Add solution URL here](https://github.com/VishrutAggarwal/nft-preview-card-component)
 - Live Site URL: [Add live site URL here](https://vishrutaggarwal.github.io/nft-preview-card-component/)
 
@@ -84,7 +83,6 @@ Need to implement variables and further optimize my code.
 
 ## Author
 
-- Website - [Vishrut Aggarwal](https://www.your-site.com) //in progress
 - Frontend Mentor - [@VishrutAggarwal](https://www.frontendmentor.io/profile/VishrutAggarwal)
 - LinkedIn - [Vishrut Aggarwal](https://www.linkedin.com/in/vishrut-aggarwal/)
 
