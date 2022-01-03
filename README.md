@@ -31,7 +31,10 @@ Users should be able to:
 ### Screenshot
 
 //in progress
-![](./screenshot.jpg)
+![Without Mouse](./screenshot/no-mouse.png)
+![Mouse on Image of NFT](./screenshot/mouseonimage.png)
+![Mouse on NFT name](./screenshot/mouseonnftname.png)
+![Mouse on name of Creator of NFT](./screenshot/mouseoncreatorname.png)
 
 ### Links
 
