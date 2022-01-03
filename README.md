@@ -68,13 +68,13 @@ Need to implement variables and further optimize my code.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3Schools](https://www.w3schools.com/css/) - This helped me for CSS and pseudo-elements. I really liked this pattern and will use it going forward.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me for CSS and flexbox. I really liked this pattern and will use it going forward.
 
 ## Author
 
 - Website - [Vishrut Aggarwal](https://www.your-site.com) //in progress
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) //in progress
+- Frontend Mentor - [@BookGlutton](https://www.frontendmentor.io/profile/BookGlutton)
 
 ## Acknowledgments
 
