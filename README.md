@@ -30,16 +30,25 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View:
+
 ![Without Mouse](./screenshots/no-mouse.png)
+
 ![Mouse on Image of NFT](./screenshots/mouseonimage.png)
+
 ![Mouse on NFT name](./screenshots/mouseonnftname.png)
+
 ![Mouse on name of Creator of NFT](./screenshots/mouseoncreatorname.png)
+
+Mobile View:
+
+![Mobile View](./screenshots/mobileview.jpg)
 
 ### Links
 
 \\in progress
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/VishrutAggarwal/nft-preview-card-component)
+- Live Site URL: [Add live site URL here](https://vishrutaggarwal.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -76,7 +85,8 @@ Need to implement variables and further optimize my code.
 ## Author
 
 - Website - [Vishrut Aggarwal](https://www.your-site.com) //in progress
-- Frontend Mentor - [@BookGlutton](https://www.frontendmentor.io/profile/BookGlutton)
+- Frontend Mentor - [@VishrutAggarwal](https://www.frontendmentor.io/profile/VishrutAggarwal)
+- LinkedIn - [Vishrut Aggarwal](https://www.linkedin.com/in/vishrut-aggarwal/)
 
 ## Acknowledgments
 
