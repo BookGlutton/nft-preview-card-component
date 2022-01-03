@@ -2,10 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" type="text/css" href="styles.css">
   
@@ -14,12 +11,14 @@
 
 <body>
   <div class = "card">
-    <div class = "container">
-      <div class = "item-container">
-          <img src = "./images/image-equilibrium.jpg" alt = "Equilibrium image"
-          width = 300 height = 300>
-      </div>
-
+    <div class = "item-container">
+        <img src = "./images/image-equilibrium.jpg" alt = "Equilibrium image"
+        width = 300 height = 300>
+        <div class = "overlay">
+          <img src = "./images/icon-view.svg" alt = "Open image">
+        </div>
+    </div>
+    <div class = "card-body">
       <div class = "name-container">
           <p>Equilibrium #3429</p>
       </div>
@@ -29,50 +28,29 @@
       </div>
 
       <div class = "detail-container">
-        <table>
-          <tr>
-            <td class = "price">
-              <img src = "./images/icon-ethereum.svg" alt = "Ethereum-icon" class = "ethereum">
-              0.041 ETH
-            </td>
-            <td class = "time">
-              <img src = "./images/icon-clock.svg" alt = "Clock-icon" class = "clock">
-              3 days left
-            </td>
-          </tr>
-        </table>
+        <div class = "detail">
+          <img src = "./images/icon-ethereum.svg" alt = "Ethereum-icon" class = "ethereum">
+          0.041 ETH
+        </div>
+        <div class = "detail">
+          <img src = "./images/icon-clock.svg" alt = "Clock-icon" class = "clock">
+          3 days left
+        </div>
       </div>
-
-      <hr>
-      
-      <div class = "creator-container">
-        <span>
-          <img src = "./images/image-avatar.png" alt = "Avatar-icon"
-          width = 30 height = 30>
-          Creation of <a>Jules Wyvern</a>
-        </span>
-      </div>
+    </div>
+    <hr>
+    
+    <div class = "creator-container">
+        <img src = "./images/image-avatar.png" alt = "Avatar-icon"
+        width = 30 height = 30>
+        <p>Creation of <em>Jules Wyvern</em></p>
     </div>
   </div>
-  <center>
     <div class="attribution">
-      <table>
-        <tr>
-          <td>
             Challenge by
-          </td>
-          <td>
             <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>
-          </td>
-          <td>
             Coded by
-          </td>
-          <td>
             <a href="#">Vishrut Aggarwal</a>
-          </td>
-        </tr>
-      </table>
     </div>
-  </center>
 </body>
 </html>

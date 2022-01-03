@@ -41,20 +41,30 @@ Users should be able to:
 
 ## My process
 
-HTML structure created
+First created the HTML structure.
+Slowly added the CSS elements.
+First the positioning elements were used.
+Later the font elements were corrected.
+Afterwards, The colors were correctly assigned.
+Hover transitions were added.
+Lastly, some finishing touches were given.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 
 ### What I learned
 
-\\in progress
+I learned how to structure HTML using div and assign elements using div tag.
+Transition elements, pseudo-classes, flexbox and some other CSS elements were a new learning experience.
 
 ### Continued development
 
-//in progress
+I would improve my HTML structuring using more tags like header, footer, main, section, etc.
+Further knowledge about transition and flexbox and other elements need to be learned and applied properly.
+Need to implement variables and further optimize my code.
 
 ### Useful resources
 
