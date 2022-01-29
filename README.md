@@ -46,8 +46,8 @@ Mobile View:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VishrutAggarwal/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://vishrutaggarwal.github.io/nft-preview-card-component/)
+- Solution URL: [Github Repository](https://github.com/VishrutAggarwal/nft-preview-card-component)
+- Live Site URL: [Github Pages](https://vishrutaggarwal.github.io/nft-preview-card-component/)
 
 ## My process
 
